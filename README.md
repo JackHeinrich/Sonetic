@@ -1,4 +1,4 @@
-# Right Hand Finger Instrument
+# Sonetic Touch Designer Component
 
 A TouchDesigner component that reads the position of your right hand and fingers to play an instrument. The component allows you to play notes in a 7th chord based on your finger positions.
 
