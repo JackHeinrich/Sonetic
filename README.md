@@ -2,6 +2,14 @@
 
 A TouchDesigner component that reads the position of your right hand and fingers to play an instrument. The component allows you to play notes in a 7th chord based on your finger positions.
 
+## Example
+
+
+
+https://github.com/user-attachments/assets/2fc5c3ac-9361-4382-b0d4-335b9cf6d097
+
+
+
 ## Features
 
 - **Right Hand Tracking**: Uses the camera to track the position of your right hand and fingers.
@@ -30,9 +38,3 @@ The component uses the position of your right hand and fingers, particularly foc
 ## Usage
 
 Once set up, move your right hand and position your fingers. The component will automatically start tracking the finger positions and play corresponding notes based on the index finger’s position in the camera.
-
-## Example
-
-Here’s a basic visual demonstration of how it works:
-
-![Example](https://github.com/user-attachments/assets/da347258-8193-4b0b-ab4d-d2e5fc3d77cb)
