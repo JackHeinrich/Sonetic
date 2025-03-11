@@ -1,12 +1,12 @@
 # Reference the input CHOPs
-base_note_chop = op('BaseNote')  # Replace with the name of your base note CHOP
-index_chop = op('IndexFingerUp')  # Replace with the name of your index finger CHOP
-middle_chop = op('MiddleFingerUp')  # Replace with the name of your middle finger CHOP
-ring_chop = op('RingFingerUp')  # Replace with the name of your ring finger CHOP
-pinky_chop = op('PinkyUp')  # Replace with the name of your pinky finger CHOP
+base_note_chop = op('BaseNote')
+index_chop = op('IndexFingerUp')
+middle_chop = op('MiddleFingerUp')
+ring_chop = op('RingFingerUp')
+pinky_chop = op('PinkyUp')
 
 # Reference the output CHOP
-chord_chop = op('chord')  # Replace with the name of your chord CHOP
+chord_chop = op('chord')
 
 # Define the intervals for a seventh chord
 seventh_chord_intervals = [0, 4, 7, 10]  # Root, major third, perfect fifth, minor seventh
