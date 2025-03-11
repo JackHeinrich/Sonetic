@@ -12,7 +12,3 @@ def remove_prefix_from_input_chop(math_chop):
             input_chop[channel.name].name = new_name  # Rename the channel
     
     return input_chop
-
-# Example usage:
-math_chop = op('NormalizedHandData')  # Replace with your actual Math CHOP node reference
-remove_prefix_from_input_chop(math_chop)
